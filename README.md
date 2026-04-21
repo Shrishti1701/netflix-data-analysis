@@ -1,126 +1,119 @@
-# 📊 Netflix Data Analysis
-<<<<<<< HEAD
+# 📊 Netflix Data Analysis & Interactive Dashboard
 
-This project performs Exploratory Data Analysis (EDA) on Netflix dataset using Python.
+## 🍿 Overview
+This project performs **Exploratory Data Analysis (EDA)** on the Netflix Movies & TV Shows dataset and presents insights through a **Streamlit interactive dashboard**.
 
----
-
-## 🔍 Objectives
-- Analyze Movies vs TV Shows distribution  
-- Identify top genres  
-- Country-wise content analysis  
-- Content trend over the years  
-=======
-This project performs Exploratory Data Analysis (EDA) on Netflix Movies & TV Shows dataset using Python.
+It helps understand Netflix content trends such as movies vs TV shows distribution, top genres, country-wise production, ratings, and content growth over the years.
 
 ---
 
-## 🔍 Objective
-The goal of this project is to analyze Netflix content and extract meaningful insights such as:
-- Distribution of Movies vs TV Shows  
-- Most popular genres  
-- Country-wise content production  
-- Growth of content over the years  
-- Ratings distribution  
->>>>>>> a0a61abe3259ca31e8f98081f72fda9f34eaac62
+## 🎯 Objectives
+- Analyze Netflix content dataset
+- Identify trends in Movies vs TV Shows
+- Find most popular genres
+- Understand country-wise content distribution
+- Study content growth over time
+- Visualize ratings distribution
+- Build an interactive dashboard
 
 ---
 
 ## 🛠️ Tech Stack
-- Python  
-- Pandas  
-- Matplotlib  
-<<<<<<< HEAD
-- Seaborn  
-=======
+- Python 🐍
+- Pandas 📊
+- Matplotlib 📈
+- Streamlit 🌐
 
 ---
 
-## 📁 Project Structure
+## 📦 Installation
+
+### 1️⃣ Clone repository
+```git clone https://github.com/YOUR_USERNAME/netflix-data-analysis.git```
+```cd netflix-data-analysis```
+
+---
+
+### 2️⃣ Install dependencies
+```pip install -r requirements.txt```
+
+---
+
+### 🚀 Run Project
+streamlit run app.py
+
+---
+
+### 📊 Dashboard Features
+✔ Movies vs TV Shows comparison
+✔ Top countries producing content
+✔ Top genres analysis
+✔ Content growth over years
+✔ Ratings distribution
+✔ Interactive filters
+✔ Netflix-style dark UI 🎬
+
+---
+
+#### 📸 Dashboard Preview
+🎬 Movies vs TV Shows
+
+🌍 Top Countries
+
+🎭 Top Genres
+
+📈 Content Growth
+
+⭐ Ratings
+
+---
+
+### 📁 Project Structure
 netflix-data-analysis/
 │
+├── app.py
 ├── netflix_analysis.py
 ├── netflix_titles.csv
 ├── movies_vs_tvshows.png
-├── top_genres.png
 ├── top_countries.png
+├── top_genres.png
 ├── content_growth.png
 ├── ratings.png
-└── README.md
+├── requirements.txt
+├── README.md
 
 ---
 
-## 📊 Visual Insights
+### 🌐 Live Demo
+👉 http://localhost:8501/
 
-### Movies vs TV Shows
-![Movies vs TV Shows](movies_vs_tvshows.png)
-
-### Top Genres
-![Top Genres](top_genres.png)
-
-### Top Countries
-![Top Countries](top_countries.png)
-
-### Content Growth
-![Content Growth](content_growth.png)
-
-### Ratings Distribution
-![Ratings](ratings.png)
->>>>>>> a0a61abe3259ca31e8f98081f72fda9f34eaac62
+⚠️ Note: This is a local link. For public access deploy using Streamlit Cloud.
 
 ---
 
-## 📈 Key Insights
-<<<<<<< HEAD
-- Movies are more than TV Shows on Netflix  
-- USA has the highest content production  
-- Drama and Comedy are the most popular genres  
+####  Key Insights
+🎬 Movies dominate over TV Shows
+🌍 USA is top content producer
+🎭 Drama & Comedy are most popular genres
+📈 Strong growth after 2015
+⭐ Wide rating diversity
 
 ---
 
-## 📁 Dataset
-Netflix dataset (CSV file)
+### 🌐 Future Improvements
+🔥 Add recommendation system (ML-based)
+📊 Upgrade to Plotly interactive charts
+🌍 Deploy live on Streamlit Cloud
+🔍 Add Netflix-style search feature
+📱 Improve UI responsiveness
 
 ---
 
-## 🚀 Author
+### 👩‍💻 Author
 Shrishti Banshiar
-=======
-- Movies are more available than TV Shows on Netflix  
-- United States produces the highest content  
-- Drama and Comedy are the most popular genres  
-- Content growth increased rapidly after 2015  
+📧 shrishtibanshiar105@gmail.com
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   ``` git clone https://github.com/Shrishti1701/netflix-data-analysis.git```
-
-2. Navigate to the folder:
-   ```cd netflix-data-analysis```
-
-3. Install dependencies:
-   ```pip install pandas matplotlib```
-
-4. Run the script:
-   ```python netflix_analysis.py```
-
----
-
-## 📌 Future Improvements
-- Add interactive dashboards (Power BI / Tableau)  
-- Deploy as a web app  
-- Perform advanced machine learning analysis  
-
----
-
-## 👩‍💻 Author
-**Shrishti Banshiar**  
-📧 shrishtibanshiar105@gmail.com  
-
----
-
-⭐ If you like this project, consider giving it a star!
->>>>>>> a0a61abe3259ca31e8f98081f72fda9f34eaac62
+### ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
