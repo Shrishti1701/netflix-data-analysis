@@ -29,7 +29,7 @@ It helps understand Netflix content trends such as movies vs TV shows distributi
 ## 📦 Installation
 
 ### 1️⃣ Clone repository
-```git clone https://github.com/YOUR_USERNAME/netflix-data-analysis.git```
+```git clone https://github.com/Shrishti1701/netflix-data-analysis.git```
 ```cd netflix-data-analysis```
 
 ---
