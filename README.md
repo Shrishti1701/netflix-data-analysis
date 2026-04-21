@@ -65,7 +65,6 @@ streamlit run app.py
 📈 Content Growth
 
 ⭐ Ratings
-
 ---
 
 ### 📁 Project Structure
