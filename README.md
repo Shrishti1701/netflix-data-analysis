@@ -84,9 +84,7 @@ netflix-data-analysis/
 ---
 
 ### 🌐 Live Demo
-👉 http://localhost:8501/
-
-⚠️ Note: This is a local link. For public access deploy using Streamlit Cloud.
+👉 https://netflix-data-analysis-ulickb5d6xcelf9tufnd2s.streamlit.app/
 
 ---
 
