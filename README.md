@@ -55,18 +55,6 @@ streamlit run app.py
 
 ---
 
-#### 📸 Dashboard Preview
-🎬 Movies vs TV Shows
-
-🌍 Top Countries
-
-🎭 Top Genres
-
-📈 Content Growth
-
-⭐ Ratings
----
-
 ### 📁 Project Structure
 netflix-data-analysis/
 │
